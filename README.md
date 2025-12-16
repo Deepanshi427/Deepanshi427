@@ -1,99 +1,93 @@
-# Hi, I'm Deepanshi 👋
+# Deepanshi
 
-💫 **About Me**
-
-I'm a final-year B.Tech student and an aspiring **Backend Developer (Node.js)**, focused on building scalable, real-world systems.
-
-I don’t just write code that “works” — I care about **why it works**, how it breaks, and how to make it production-ready.  
-My current focus is on backend architecture, authentication systems, databases, and clean API design.
-
-I’m actively preparing for **entry-level backend roles at top startups and MNCs**.
+Backend Developer | Node.js | REST APIs | Databases
 
 ---
 
-🌐 **Connect With Me**
+## About
 
-- 💼 LinkedIn: https://www.linkedin.com/in/deepanshi-pal-60a67725b/
-- 💻 GitHub: https://github.com/Deepanshi427
-- 📧 Email: deepanshia.k.p50494@gmail.com
+I am a final-year B.Tech student specializing in **backend development**, with hands-on experience building **scalable and secure Node.js applications**.
 
----
+My focus is on designing clean REST APIs, implementing robust authentication and authorization mechanisms, and working with databases in a production-oriented manner. I emphasize code quality, maintainability, and understanding system behavior beyond basic functionality.
 
-💻 **Tech Stack**
-
-**Languages**
-- JavaScript (ES6+)
-- TypeScript
-- Java
-- C++
-- Python
-
-**Backend & APIs**
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Middleware & Global Error Handling
-
-**Databases**
-- MongoDB
-- Mongoose
-- MySQL (Basics)
-- Redis (Learning)
-
-**Dev Tools & Platforms**
-- Git & GitHub
-- Postman
-- Docker (Basics)
-- AWS (EC2, S3 – Basics)
-- Vercel
-- Nginx (Intro)
-
-**Frontend (for integration)**
-- React
-- HTML5
-- CSS
+Currently preparing for **entry-level backend engineering roles** at product-based startups and MNCs.
 
 ---
 
-📂 **Highlighted Projects**
+## Connect With Me
 
-🔹 **TaskManagerAPI**
-- RESTful backend for task management
-- JWT authentication & RBAC
-- Activity logging system
-- Clean MVC structure  
-👉 Repo: https://github.com/Deepanshi427/TaskManagerAPI
-
-🔹 **URL Shortener API**
-- Short URL generation
-- Expiry (TTL) support
-- MongoDB indexing & performance focus
-
-🔹 **Auth System (Practice Project)**
-- Password hashing
-- Token lifecycle handling
-- Secure auth flows
-
-_(More projects added regularly — I push code daily.)_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshi%20Pal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepanshi-pal-60a67725b/)
+[![Gmail](https://img.shields.io/badge/Gmail-deepanshia.k.p50494%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:deepanshia.k.p50494@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Deepanshi427-black?style=for-the-badge&logo=github)](https://github.com/Deepanshi427)
 
 ---
 
-📊 **GitHub Stats**
+## Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepanshi427&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi427&layout=compact)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST-API-lightgrey?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-Authentication-purple?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-Authorization-darkblue?style=for-the-badge)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-learning-red?style=for-the-badge&logo=redis)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3-orange?style=for-the-badge&logo=amazon-aws)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+### Frontend (Integration Level)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ---
 
-🔥 **What I’m Currently Working On**
-- Advanced backend patterns
-- System design fundamentals
-- Production-ready Node.js projects
-- Daily DSA & backend drills
+## Selected Projects
+
+### TaskManagerAPI
+- RESTful backend for task management  
+- JWT authentication with role-based access control  
+- Activity logging for create/update/delete operations  
+- MVC-based project structure  
+🔗 https://github.com/Deepanshi427/TaskManagerAPI
+
+### URL Shortener API
+- Short URL generation with expiration (TTL)  
+- MongoDB indexing for optimized query performance  
+
+### Authentication System
+- Secure password hashing  
+- Token lifecycle management  
+- Standard backend authentication flows  
 
 ---
 
-📌 **Goal**
-To secure a **Backend Developer role** where I can build real systems, learn fast, and grow into a strong software engineer.
+## Current Focus
+
+- Backend system design
+- Production-grade Node.js development
+- Database performance optimization
+- Daily DSA and backend practice
+
+---
+
+## Career Objective
+
+To join a backend engineering team where I can contribute to real-world systems and grow as a software engineer.
